@@ -10,17 +10,17 @@ description: "Some description about..."
 <h2   style="color:white;"  >My projects</h2>
 <h1  style="color:white;" >
 	
-	<p>折腾计算机的家伙</p>
-	<p>喜欢Linux和猫猫，还有Lain！</p>
-	<p>喜欢纸片人</p>
-	<p>生产力工具：Blade15 A7M2 Ckr9 Pop!_OS</p>
-	<p>联系我：linear.hiya.outlook.com</p>
+	<p  style="color:white;" >折腾计算机的家伙</p>
+	<p  style="color:white;" >喜欢Linux和猫猫，还有Lain！</p>
+	<p  style="color:white;">喜欢纸片人</p>
+	<p  style="color:white;">生产力工具：Blade15 A7M2 Ckr9 Pop!_OS</p>
+	<p  style="color:white;">联系我：linear.hiya.outlook.com</p>
 
 </h1>
 <div class="aboutme" >
 	<ul class="recent">
 		{% for project in site.projects %}
-	    	<li><a   style="color:white;" href="{{ project.url}}"><h3   style="color:white;" class="project-name" itemprop="name">{{ project.name }}</h3></a></li>
+	    	<li  style="color:white;" ><a   style="color:white;" href="{{ project.url}}"><h3   style="color:white;" class="project-name" itemprop="name">{{ project.name }}</h3></a></li>
 	    {% endfor %}
 	</ul>
 </div>
