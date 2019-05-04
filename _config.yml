@@ -46,6 +46,10 @@ links:
     - title: about me
       url: /about
       key_trigger: 5
+    - title: Friend Link
+      url: /friend
+      key_trigger: F
+      
 
 # projects in header index
 projects:
