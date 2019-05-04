@@ -32,7 +32,7 @@ compress_html:
 links:
   section_1:
     - title: home
-      url: /
+      url: /trueindex
       key_trigger: 1
     - title: my posts
       url: /posts
