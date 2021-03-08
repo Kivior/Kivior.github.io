@@ -6,14 +6,14 @@ url: "https://kivior.github.io/" # for test: remove string 'http://victorvoid.gi
 
 
 # User settings
-username: Lainnya
-user_title: Lainnya - CS
+username: Nial4
+user_title: Nial4 - CS
 email: linear.hiya@outlook.com
 twitter_username: bvayt44fEhbA0ff
-github_username:  Kivior
-gplus_username:  Lainnya
+github_username:  Nial4
+gplus_username:  Nial4
 weibo_username: coverssun # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
-disqus_username: Lainnya
+disqus_username: Nial4
 profile_picture: https://avatars2.githubusercontent.com/u/30547274?s=460&v=4
 
 # Build settings
@@ -55,9 +55,9 @@ links:
 # projects in header index
 projects:
   - name: WhatsWeather
-    url: https://github.com/Kivior/Serori-weather
+    url: https://github.com/Nial4/Serori-weather
   - name: AnimeLine
-    url: https://github.com/Kivior/AnimeLine
+    url: https://github.com/Nial4/AnimeLine
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
